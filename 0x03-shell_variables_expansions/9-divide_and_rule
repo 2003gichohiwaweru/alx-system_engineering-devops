@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ((128i+ $TRUEKNOWLEDGE))
+echo $(($POWER/$DIVIDE))
